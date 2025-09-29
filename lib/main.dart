@@ -1,4 +1,4 @@
-import 'package:dicoding_flutter/loginpage.dart';
+import 'package:dicoding_flutter/page/loginpage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
